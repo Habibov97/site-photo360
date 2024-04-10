@@ -9,5 +9,5 @@ Homepage with information about the creator
 Navigation bar for easy access to other pages
 Simple styling using CSS
 
-Usage
+Usage 
 To view the website, simply open the index.html file in your web browser.
