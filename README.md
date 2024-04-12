@@ -21,4 +21,4 @@ Simple styling using CSS
 
 <i><b>USAGE</b></i>
 
-To view the website, simply open the index.html file in your web browser.
+To view the website, simply open the index.html file in your web browser or click the link above.
